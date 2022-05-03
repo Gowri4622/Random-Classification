@@ -1,5 +1,5 @@
 ### EX NO: 01
-### DATE:
+### DATE: 01.04.2022
 # <p align="center"> RANDOM CLASSIFICATION</P>
 
 ## AIM:
