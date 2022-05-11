@@ -62,7 +62,9 @@ plt.title("Random Classification Data with 2 classes")
 </br>
 </br>
 </br>
+
 ## Output:
+
 ![nn1](https://user-images.githubusercontent.com/75235455/167881485-a277683c-43c9-4c94-a1f0-763cb1335044.png)
 
 
