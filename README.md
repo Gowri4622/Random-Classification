@@ -62,6 +62,11 @@ plt.title("Random Classification Data with 2 classes")
 </br>
 </br>
 </br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ## Output:
 
