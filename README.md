@@ -22,6 +22,8 @@ One of the most important features of the Random Forest Algorithm is that it can
 3.Each decision tree will generate an output.
 4.Final output is considered based on Majority Voting or Averaging for Classification and regression respectively.
 
+
+
 ## Program:
 ```
 /*
