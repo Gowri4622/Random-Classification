@@ -18,8 +18,11 @@ One of the most important features of the Random Forest Algorithm is that it can
 
 ## Algorithm
 1.In Random forest n number of random records are taken from the data set having k number of records.
+</br>
 2.Individual decision trees are constructed for each sample.
+</br>
 3.Each decision tree will generate an output.
+</br>
 4.Final output is considered based on Majority Voting or Averaging for Classification and regression respectively.
 
 </br>
